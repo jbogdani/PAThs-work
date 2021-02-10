@@ -1,5 +1,5 @@
 ---
-name: "Soviet military topographic maps
+name: "Soviet military topographic maps"
 type: raster_map
 date_created: false
 lang: false
